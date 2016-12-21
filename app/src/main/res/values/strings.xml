@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fire Bird Designs</string>
+    <string name="app_version">1.0</string>
+    <string name="retrieve_item">Retrieving Current Events</string>
+    <string name="feedback_title">Contact Dev</string>
+    <string name="feedback_summary">Use Google Hangouts or Mail me directly to get a hold of me. Il get back to you asap!</string>
+    <string name="email">Email</string>
+    <string name="hangout">Hangouts</string>
+    <string name="webview">Webview</string>
+    <string name="qoute_one">\"This team is the best always helping others when.\"</string>
+    <string name="qoute_two">\"This team is awesome they have great work way to go Fire Bird Designs!\"</string>
+    <string name="community_text">Connect with 1 of 2 or even both of our communites on Facebook or Google Plus! Get insider information on new projects, sneak peaks and get free stuff from promotional give aways!</string>
+    <string name="snack_loading">Loading...</string>
+    <string name="help_dialog">This is the Fire Bird Designs app. Simply click on an item that interest you and read the information available. The links are directly tied with Google Play listings. All promotions and sales are also announced in the listings!</string>
+</resources>

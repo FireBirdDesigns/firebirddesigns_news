@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:layout="@layout/footer"/>
+
+    <Preference
+        android:summary="Fire Bird Designs is a product of Technologx. This application allows followers to engage the Fire Bird Designs Home site in Mobile form.">
+    </Preference>
+
+    <Preference
+        android:title="Fire Bird Designs"
+        android:summary="@string/app_version">
+    </Preference>
+
+</PreferenceScreen>

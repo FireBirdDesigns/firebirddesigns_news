@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "841954527232",
+    "firebase_url": "https://fire-bird-designs.firebaseio.com",
+    "project_id": "fire-bird-designs",
+    "storage_bucket": "fire-bird-designs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841954527232:android:df37da789844078f",
+        "android_client_info": {
+          "package_name": "com.technologx.firebirddesigns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841954527232-lr703b7386ijtfta35dnfpdnj75p7n74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgecwKCTkuszIc90dw8o-1yZF9-5eHXc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/FireBirdDesigns/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84d4b4ca681d91f5eeacdef8207fc03b3b6c9fcd">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/FireBirdDesigns-shared-unspecified_b6b4c0d72fedc8c792758711e375a072dd826b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_f510f49d85b00d6c0990ab711e018d6beaf86e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.0.1_bb032866b196a864fc0ac15fe4c5b0637b7d86f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-10.0.1_4a01e77f7ca8d19246c33058e59af8700d28f415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.1_ed22a76a4b6045ceec54602062a99977774dcae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-10.0.1_4f54d09528a7ac7332f66a9b506edff9dc3d406d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-10.0.1_3e0a3a4a872958dd77739285a0d5ff98f85ab480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-clearcut-10.0.1_aaf2346240db7a5505d4fb074263f4b4f01be256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/de.psdev.licensesdialog/licensesdialog/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="063e8091cd19fe30677bce05fa3bc970212f3a9a">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/de.psdev.licensesdialog-licensesdialog-1.8.0_147e730c00fd71777f5a9bfa675e81793962bc85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.1_f5f98a586e8c9478843189ec50ef5037c93df5b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.github.rampo.updatechecker/library/2.1.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb5c07f3d6f461eb6f7662ad57dec8630d1ed688">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.github.rampo.updatechecker-library-2.1.8_0abbe0972db19d452d384f7911e2c43d1ad48227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.1_20644d3ca554a23fd470bc35b769ce9666e58d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.mikepenz-materialize-1.0.0_62b116545de2751e2f103e8d0d28012de9769a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-10.0.1_1549b825ce411461c705ca5e02d39b413053d413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.mikepenz-iconics-core-2.8.0_827775510df5c4f20cbb6667f472bc5c34e02b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-design-25.0.1_31350ec0f267eb25176f78f40e1455f2a83f26f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-10.0.1_830db898136342fe4b820dc63593dd16aa48dad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_8cc4ec6883e3eb2d72ccd82d0c3311d57d649fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.mikepenz-materialdrawer-5.6.0_332ae408f1728ba97fabf884b834998aa30369e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-10.0.1_3f7ab1025f18fdf13adafab1e216d0fc6b0bf38a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-10.0.1_dbeae867c4618f42147a1aa47a469ce635bb95f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.1_5e098fc62420b5d88fc0639878e896fce6f35361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.1_eb8c685fafe1053aa3f7c574934baf66a06b95e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-lite-10.0.1_79d53fd2c1414a674a60670bd188b237e1775a6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_62bed2a4b740daa4cbb6abef828d9a4a2a06c6d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_589c009129b0a94e6f85b2c08c80a41297a317cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-10.0.1_c8c2a0bf4fb3bf796e6b874d51e01d8c500886ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.mikepenz-fastadapter-1.8.0_c95c8875ca68c8e92137c4a1115a0f5d074fa74c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_0df87facec40079597f0c418c14a4ee4f69c2183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_898f9471b8fe6d04bab85d7fa8eb24bc1c68c507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_262cd6f677548a0a3dd890321244843053cd0066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_3927770a3a5282f56f7992843e7f7b832f47926b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_67df3fd3506e064dbd7bc75e840a61e4d6659161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.0.1_6cb7fe31edae37e1114ecf96ac3854ef3ca25247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_77530f8eb0524aaeaecb5c50afe4393126c11652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2b9f0c5025fb0640ef092b1ca322bf4a4992e1c">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-customtabs-25.0.1_6ff829d58c2c9aee4e1f8924b3d2eb1f6b0d934d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.0.1_be62f9a98ed0a166384af31846b5414732dffc0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/support-annotations-25.0.1_bf698803f928223173cab1537a7b046550069963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/New/FireBirdDesigns/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gass-10.0.1_d1d0e328ee662967601f5643a521bf21d497f3b2.jar" />
+    </item>
+
+</items>
